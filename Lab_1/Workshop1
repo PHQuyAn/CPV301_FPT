@@ -1,0 +1,15 @@
+Workshop #1: Geometric primitives and transformations  
+Learning Outcomes:  
+Upon successful completion of this workshop, you will have demonstrated the abilities to:  
+•	Practice basic Python language syntax and semantics to write python programs.  
+•	Use concepts geometric primitives to draw rectangle.  
+•	Learn about transformations and write a program to perform transformations like translation, rotation, scaling  
+•	Compile and run a program.  
+Requirements:  
+In this assignment, students will learn the basics of geometric primitives and transformations. By writing a program that draws a rectangle, and performs 2D transformations. Use the mouse to draw a rectangle on a white background (you can choose a color for the line). Then manipulate the mouse to perform the following transformations: translation, rotation, scaling.  
+Instructions are as follows:  
+Function 1:  Create a white background   
+Function 2: Use the mouse to click on a coordinate p1(x1,y1), drag to the position p2(x2,y2) then release the mouse to draw a rectangle corresponding to 2 coordinates p1(x1,y1) and p2(x2, y2).  
+Function 3:. Select translation transformation: enter translation information to create a new rectangle corresponding to the new coordinates.  
+Function 4: select rotation transform: enter rotation angle information to create a new rectangle corresponding to the new coordinates.  
+Function 5: Select the scaling transformation: enter the scaling factors information to draw a new rectangle corresponding to the new coordinates.  
